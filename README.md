@@ -1,0 +1,2 @@
+# Neoscrypt-CPUminer
+Neoscrypt-CPUminer
